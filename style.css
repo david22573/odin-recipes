@@ -1,0 +1,42 @@
+body {
+    background-color: #C8D5B9;
+}
+
+img {
+    width: 15em;
+    height: 15em;
+    border: #4A7C59 solid 10px;
+    border-radius: 30%;
+}
+
+#title {
+    font-family: "Comic Sans", 'Courier New', Courier, monospace;
+    font-size: 5em;
+    text-align: center;
+}
+
+#recipe-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 2em;
+    text-align: center;
+}
+
+.recipe-link {
+    padding: 2em;
+    background-color: #FAF3DD;
+    border: solid #4A7C59 10px;
+}
+
+.menu-img {
+    width: 25em;
+    height: 25em;
+    max-height: 50;
+    display: block;
+    margin: 0 auto;
+    border: #4A7C59 solid 10px;
+    border-radius: 30%;
+}
+
+
