@@ -1,0 +1,18 @@
+body {
+    background-color: #C8D5B9;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+img {
+    width: 15em;
+    height: 15em;
+    border: #4A7C59 solid 10px;
+    border-radius: 30%;
+}
+
+#title {
+    font-family: "Comic Sans", 'Courier New', Courier, monospace;
+    font-size: 5em;
+    text-align: center;
+}
